@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	width: 80em;
+	
+	margin: 0;
+	padding: 2em;
+	font: normal 100%/1.5 sans-serif;
+	background-color: ;
+	color: #000;
+}
+
+form {
+	margin: 1em auto;
+	padding: 2em;
+	width: 40em;
+	background-color: #0CF;
+	box-shadow: 0 3px 10px rgba(0,0,102,1);
+}
+
+
+div {
+	padding: 0 0 1em 0;
+}
+
+div:last-child {
+	padding: 0;
+}
+
+label {
+	display
+	padding: 0 0 0.1em 0;
+}
+
+
